@@ -1,0 +1,5 @@
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+Como ciudadano quiero adjuntar una foto a mi reporte para sustentar la incidencia.
+Como coordinador quiero generar un resumen semanal de reportes para presentar avances a la comunidad.

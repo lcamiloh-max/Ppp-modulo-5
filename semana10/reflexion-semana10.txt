@@ -1,0 +1,18 @@
+Las metodologías ágiles ayudan a organizar una comunidad porque permiten dividir
+un problema grande en tareas pequeñas y manejables, priorizando lo que realmente
+genera valor primero. Esto evita que un proceso de participación ciudadana se
+paralice esperando una solución perfecta, y en cambio permite avanzar con
+entregas cortas que se pueden ajustar según la respuesta de la comunidad.
+
+La automatización, por su parte, reduce la carga operativa: en lugar de que
+alguien esté pendiente manualmente de revisar cada reporte, un flujo en n8n
+puede notificar automáticamente cuando ocurre un evento importante. Esto agiliza
+la respuesta y libera tiempo del equipo para enfocarse en analizar y actuar
+sobre los casos, no en tareas repetitivas de seguimiento.
+
+Canales como Telegram fortalecen la coordinación porque centralizan la
+comunicación en un espacio accesible y en tiempo real, facilitando que
+coordinadores y miembros del equipo se enteren rápido de novedades sin
+depender de reuniones presenciales. En conjunto, estas herramientas hacen que
+un proceso de veeduría o participación ciudadana sea más transparente,
+trazable y sostenible en el tiempo.

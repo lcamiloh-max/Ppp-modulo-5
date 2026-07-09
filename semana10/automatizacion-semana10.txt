@@ -1,0 +1,10 @@
+¿Qué evento activa el flujo?
+El registro de una nueva incidencia por parte de un ciudadano en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Revisar sistema para más detalles."
+
+¿Qué información no debería enviarse por seguridad?
+Nombres completos, números de documento de identidad, direcciones exactas,
+números de teléfono, contraseñas, tokens de acceso o cualquier dato sensible
+que pueda identificar a una persona sin su consentimiento.
