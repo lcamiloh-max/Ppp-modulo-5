@@ -1,0 +1,13 @@
+El login es el proceso mediante el cual un usuario se identifica ante la
+plataforma, generalmente con un usuario o correo y una contraseña, antes de
+poder acceder a ciertas funciones del sistema.
+
+Algunas rutas deben estar protegidas porque contienen información privada,
+acciones administrativas o registros internos que no deberían estar
+disponibles para cualquier visitante. Por ejemplo, crear una causa, apoyar
+una causa o consultar el panel de coordinación deberían requerir autenticación.
+
+No se debe exponer públicamente información como contraseñas o sus hashes,
+documentos de identidad, números de teléfono, direcciones, tokens de acceso,
+claves de API ni ningún dato sensible que permita identificar indebidamente
+a un miembro de la comunidad.
